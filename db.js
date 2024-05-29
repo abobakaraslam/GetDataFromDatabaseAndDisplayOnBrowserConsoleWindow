@@ -3,7 +3,7 @@
 const myMongoose = require('mongoose');
 
 // Saving my MongoDB URI
-const mongoURL = 'mongodb://localhost:27017/myWebDatabase';
+const mongoURL = 'mongodb://localhost:27017/myDBClass';
 
 // Creating a function to connect to MongoDB
 const connectToMongo = async () => {
