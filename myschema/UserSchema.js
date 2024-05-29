@@ -10,4 +10,4 @@ const UserSchema = new Schema()
 //1st parameter is for name-of-collection in database. DONT USE CAPITAL LETTER IN THE NAME
 //3rd parameter is same as 1st parameter so that name of collection is same as in 1st parameter.
 
-module.exports = UserMongoose.model('myUserCollection', UserSchema, 'myUserCollection')
+module.exports = UserMongoose.model('myCollectionMyDBClass', UserSchema, 'myCollectionMyDBClass')
