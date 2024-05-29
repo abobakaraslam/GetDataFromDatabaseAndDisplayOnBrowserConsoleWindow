@@ -1,0 +1,2 @@
+# GetDataFromDatabaseAndDisplayOnBrowserConsoleWindow
+ Read opeation
